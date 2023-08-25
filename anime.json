@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dragon Ball",
+        "puntaje": 10,
+        "tipo": "Serie",
+        "season": "GT",
+        "generos": "Accion"
+    },
+    {
+        "id": 2,
+        "titulo": "haykyuu",
+        "puntaje": 9,
+        "tipo": "Serie",
+        "season": 1,
+        "generos": "deporte"
+    },
+    {
+        "id": 3,
+        "titulo": "Doraemon",
+        "puntaje": 10,
+        "tipo": "Serie",
+        "season": 2,
+        "generos": "comedia"
+    }
+]
